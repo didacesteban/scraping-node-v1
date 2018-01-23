@@ -1,13 +1,5 @@
 [
     {
-        "sala": "Sala 3",
-        "band": "PARANORMALES"
-    },
-    {
-        "sala": "Sala 2",
-        "band": "AVALANCH All Stard Band + Regresi�n"
-    },
-    {
         "sala": "Sala 1",
         "band": "ACCEPT - THE RISE OF CHAOS 2018"
     },
@@ -189,6 +181,10 @@
     },
     {
         "sala": "Sala 3",
+        "band": "MOKSHA"
+    },
+    {
+        "sala": "Sala 3",
         "band": "GARDEN CITY MOVEMENT"
     },
     {
@@ -230,6 +226,10 @@
     {
         "sala": "Sala 2",
         "band": "SFDK"
+    },
+    {
+        "sala": "Sala 2",
+        "band": "DESAKATO + MALA REPUTACI�N"
     },
     {
         "sala": "Sala 1",
